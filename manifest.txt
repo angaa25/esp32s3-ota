@@ -1,0 +1,2 @@
+1.0.0
+https://raw.githubusercontent.com/TU_USUARIO/esp32s3-ota/main/firmware-1.0.0.bin
